@@ -4,3 +4,9 @@
 /cpp/run.tests
 /ocaml/_build
 /ocaml/*.native
+/csharp/bin
+/csharp/obj
+/csharp/packages
+*.suo
+*.user
+/csharp/Backup
